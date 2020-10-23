@@ -1,0 +1,13 @@
+D:\BaiTapTruong\LyThuyetDoThi\LyThuyetDoThi\LyThuyetDoThi\bin\Debug\netcoreapp3.1\LyThuyetDoThi_Lab1.exe
+D:\BaiTapTruong\LyThuyetDoThi\LyThuyetDoThi\LyThuyetDoThi\bin\Debug\netcoreapp3.1\LyThuyetDoThi_Lab1.deps.json
+D:\BaiTapTruong\LyThuyetDoThi\LyThuyetDoThi\LyThuyetDoThi\bin\Debug\netcoreapp3.1\LyThuyetDoThi_Lab1.runtimeconfig.json
+D:\BaiTapTruong\LyThuyetDoThi\LyThuyetDoThi\LyThuyetDoThi\bin\Debug\netcoreapp3.1\LyThuyetDoThi_Lab1.runtimeconfig.dev.json
+D:\BaiTapTruong\LyThuyetDoThi\LyThuyetDoThi\LyThuyetDoThi\bin\Debug\netcoreapp3.1\LyThuyetDoThi_Lab1.dll
+D:\BaiTapTruong\LyThuyetDoThi\LyThuyetDoThi\LyThuyetDoThi\bin\Debug\netcoreapp3.1\LyThuyetDoThi_Lab1.pdb
+D:\BaiTapTruong\LyThuyetDoThi\LyThuyetDoThi\LyThuyetDoThi\obj\Debug\netcoreapp3.1\LyThuyetDoThi_Lab1.csprojAssemblyReference.cache
+D:\BaiTapTruong\LyThuyetDoThi\LyThuyetDoThi\LyThuyetDoThi\obj\Debug\netcoreapp3.1\LyThuyetDoThi_Lab1.AssemblyInfoInputs.cache
+D:\BaiTapTruong\LyThuyetDoThi\LyThuyetDoThi\LyThuyetDoThi\obj\Debug\netcoreapp3.1\LyThuyetDoThi_Lab1.AssemblyInfo.cs
+D:\BaiTapTruong\LyThuyetDoThi\LyThuyetDoThi\LyThuyetDoThi\obj\Debug\netcoreapp3.1\LyThuyetDoThi_Lab1.csproj.CoreCompileInputs.cache
+D:\BaiTapTruong\LyThuyetDoThi\LyThuyetDoThi\LyThuyetDoThi\obj\Debug\netcoreapp3.1\LyThuyetDoThi_Lab1.dll
+D:\BaiTapTruong\LyThuyetDoThi\LyThuyetDoThi\LyThuyetDoThi\obj\Debug\netcoreapp3.1\LyThuyetDoThi_Lab1.pdb
+D:\BaiTapTruong\LyThuyetDoThi\LyThuyetDoThi\LyThuyetDoThi\obj\Debug\netcoreapp3.1\LyThuyetDoThi_Lab1.genruntimeconfig.cache
